@@ -1,7 +1,11 @@
 # [帝莎编程](http://dishaxy.dishait.cn/)
 
+专注于研究实战编程, 欢迎大家 [关注 Follow](https://github.com/users/follow?target=dishait) 👀
+
 <br />
 
-## 介绍 👀
+## 组织
 
-专注于研究实战编程
+- [官网](http://dishaxy.dishait.cn/)
+- [Gitee](https://gitee.com/dishait)
+- [网易云课堂](https://study.163.com/provider/480000001892585/index.htm?share=2&shareId=480000001892585)
