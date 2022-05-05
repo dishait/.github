@@ -1,6 +1,6 @@
 # [帝莎编程](http://dishaxy.dishait.cn/)
 
-专注于研究实战编程, 欢迎大家 [关注 Follow](https://github.com/users/follow?target=dishait) 👀
+专注于研究实战编程, 欢迎大家关注 Follow 👀
 
 <br />
 
