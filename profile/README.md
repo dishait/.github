@@ -3,7 +3,7 @@
 专注于研究实战编程, 欢迎大家 [关注 Follow](https://github.com/users/follow?target=dishait) 
 👀
 
-![Vue3实战商城后台管理系统开发](./course.png)
+![Vue3实战商城后台管理系统开发](https://raw.githubusercontent.com/markthree/static/main/png/course.png)
 
 vue3+ vite + ElementPlus 实战商城后台管理系统开发 👉 [演示地址](http://shopadmin.dishawang.com)
 
