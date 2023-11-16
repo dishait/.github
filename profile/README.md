@@ -11,7 +11,7 @@
     </a>
 </div>
 
-### 👉 [视频课程](https://study.163.com/course/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585)  
+### 👉 [视频课程](https://pc.dishait.cn/p/t_pc/course_pc_detail/camp_pro/course_2IMqmijMOzAsFmfhPSuquw12e2l)   
 
 ### 👉 [线上演示](http://shopadmin.dishawang.com)
 - 账号: **`admin`**   
